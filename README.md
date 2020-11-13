@@ -11,15 +11,16 @@ This is a project on practicing DOM manipulations
 
 ## Tech/Framework used
 
-#### Languages 
-HTML, CSS, JS 
- 
- 
-#### Code editor    
-Visual Studio Code  
+<dl>
+  <dt>Languages</dt>
+  <dd>HTML, CSS, JS</dd>
+
+  <dt>Code editor</dt>
+  <dd>Visual Studio Code</dd>
   
-#### CSS Framework  
-[Materialize](https://materializecss.com/)  
+  <dt>CSS Framework</dt>
+  <dd>Materialize</dd>
+</dl>
 
 
 ## Author and Rights
@@ -34,5 +35,5 @@ Coded by Lisa Baetsle
 
 ## Thanks to
 
-Brad Traversy
+Brad Traversy  
 BeCode
