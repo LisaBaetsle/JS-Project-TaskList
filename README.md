@@ -25,7 +25,7 @@ This is a project on practicing DOM manipulations
 
 ## Author and Rights
 
-Project thought by Brad Traversy on [Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)  
+Project taught by Brad Traversy on [Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)  
 Coded by Lisa Baetsle
 
 
