@@ -19,18 +19,18 @@ HTML, CSS, JS
 Visual Studio Code  
   
 #### CSS Framework  
-Materialize (https://materializecss.com/ "MaterializeCSS")  
+[Materialize](https://materializecss.com/)  
 
 
 ## Author and Rights
 
-Project thought by Brad Traversy on (https://www.udemy.com/course/modern-javascript-from-the-beginning/ "Udemy") 
+Project thought by Brad Traversy on [Udemy](https://www.udemy.com/course/modern-javascript-from-the-beginning/)  
 Coded by Lisa Baetsle
 
 
 ## Products
   
-(https://lisabaetsle.github.io/JS-Project-TaskList/ "JS-Project-TaskList"
+[JS-Project-TaskList](https://lisabaetsle.github.io/JS-Project-TaskList/)  
 
 ## Thanks to
 
